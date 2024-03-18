@@ -72,10 +72,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -706281077
+  m_SortingLayerID: 1801433197
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1599063516, guid: 3426dc695f8d6634fbbb6d02c9b8c037, type: 3}
+  m_Sprite: {fileID: -953971756, guid: 3426dc695f8d6634fbbb6d02c9b8c037, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -157,5 +157,5 @@ MonoBehaviour:
     maxDepth: 0
     minNormalAngle: 0
     maxNormalAngle: 0
-  emptyChest: {fileID: 6844831, guid: 3426dc695f8d6634fbbb6d02c9b8c037, type: 3}
+  emptyChest: {fileID: 712203035, guid: 3426dc695f8d6634fbbb6d02c9b8c037, type: 3}
   moneyAmount: 5
